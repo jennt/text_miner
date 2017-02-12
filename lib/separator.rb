@@ -46,8 +46,13 @@ class Separator
 # 31
 # $$31
   def zipcode(code)
+    if zip[1] (^\d{4}$) nil #get the 4 digit nil example
+      if zip[1] (^\d{6}$) nil #gets the 6 digit nil example
+    #first 5 digits (\d{5}) else nil
 
   end
+  # (\d{5})-?(\d{4})? gets the first 5 correct but still grabs
+  # 2nd and 3rd wrong ones
 # {'zip': '63936', 'plus4': nil}
 
 end
