@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-Sets of failing tests that require functions written using Regular Expression to enable them to pass.
+Sets of failing tests that require functions written using Ruby and Regular Expression to enable them to pass.
 
 ## Code Example
 ```ruby   
@@ -21,10 +21,9 @@ end
   ```
 
 ## Motivation
-Purposes for developing this program include:
+Purposes for this exercise include:
   * To practice reading and writing the regular expression language
   * To be able to use Ruby regular expression objects and methods
-
 
 
 ## Tests
