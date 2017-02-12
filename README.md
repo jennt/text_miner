@@ -1,6 +1,6 @@
 #Text Miner#
 
-*not completed*
+*in progress*
 
 ## Synopsis
 
